@@ -6,7 +6,7 @@ I write computer code.
 
 * 🔥  My LinkedIn Profile: https://www.linkedin.com/in/ameda-kevin/
 * 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [amedakevin@gmail.com](mailto:chaoocharles@gmail.com) |+2547977617742
+* ✉️  You can contact me at [amedakevin@gmail.com](mailto:chaoocharles@gmail.com) |+2547977617742 https://kevin-ameda-kisevu-portfolio.netlify.app/
 * 🤝  I'm open to work opportunities in software development
 * I have had an opportunity to work in different domains as a Java Backend Developer, from E-commerce systems to B2B to CRMs. The list is endless. I have also worked in the health department where I have written tests and debugging.
 
