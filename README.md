@@ -1,4 +1,4 @@
-Hi 👋 My name is Kevin Ameda Kisevu a Java Backend Developer with Some React Js and JavaScript Skills
+Hi 👋 My name is Kevin Ameda Kisevu a Java Backend Developer with Angular, React & Typescript skills
 ========================
 
 I write computer code.
